@@ -1,0 +1,8 @@
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\bin\Debug\Control_operaciones.exe.config
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\bin\Debug\Control_operaciones.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\bin\Debug\Control_operaciones.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\obj\Debug\Control_operaciones.csproj.AssemblyReference.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\obj\Debug\Control_operaciones.csproj.CoreCompileInputs.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\obj\Debug\Control_operaciones.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\obj\Debug\Control_operaciones.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Control_operaciones\Control_operaciones\obj\Debug\Control_operaciones.exe.config
